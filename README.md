@@ -122,7 +122,7 @@ Here are some of my ongoing projects:
 
 - [clickEngineDapp2](https://github.com/Gola-k/clickEngineDapp2): ClickEngine is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
  
-- [Wrb3_Paypal](): Web3_Paypal as the name suggests, is a web3 Paypal payement Gateway application for exchaing money across borders within no time ,removing the long time delay and complexities in FACED traditional payement gateways.The tech stack includes React (UI) solidity, ethers.js and Hardhat for building the Backend on the Ethereum Blockchain.
+- [Chirping](https://github.com/Gola-k/Chirping): Chirping is a social media with a blend of gamification. In Web2 and Web3 both, social media dapps or apps are in control of a centralised authority and many a times it is seen that the central authority removes a post of a user without his/her concern. In today's social media you'll see many celebrities or rich users buy bots or followers even though they don't deserve, which makes the race of gaining followers or popularity dirty.
 
   <br>
 
