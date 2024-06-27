@@ -118,12 +118,11 @@ Here are some of the technologies and tools I've worked with:
 
 Here are some of my ongoing projects:
 
-- [CherrySwap](https://github.com/InfiniteCoder100/CherrySwap):CherrySwap is a new NFT Marketplace in the town build for buying , selling and swapping of NFTS OR any Token.
+- [CherrySwap](https://github.com/Gola-k/CherrySwapNftMarketplace):CherrySwap is a new NFT Marketplace in the town build for buying , selling and swapping of NFTS OR any Token.
 
-- [StudyNotion ](https://github.com/InfiniteCoder100/StudyNotion_Website): StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. StudyNotion aims to provide:
-  A seamless and interactive learning experience for students, making education more accessible and engaging students.
-
-- [Wrb3_Paypal](https://github.com/InfiniteCoder100/Web3_Paypal): Web3_Paypal as the name suggests, is a web3 Paypal payement Gateway application for exchaing money across borders within no time ,removing the long time delay and complexities in FACED traditional payement gateways.The tech stack includes React (UI) solidity, ethers.js and Hardhat for building the Backend on the Ethereum Blockchain.
+- [clickEngineDapp2](https://github.com/Gola-k/clickEngineDapp2): ClickEngine is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
+ 
+- [Wrb3_Paypal](): Web3_Paypal as the name suggests, is a web3 Paypal payement Gateway application for exchaing money across borders within no time ,removing the long time delay and complexities in FACED traditional payement gateways.The tech stack includes React (UI) solidity, ethers.js and Hardhat for building the Backend on the Ethereum Blockchain.
 
   <br>
 
