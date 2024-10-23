@@ -19,13 +19,13 @@ I'm **Kunal Gola**, a remote Blockchain Developer with a passion for building hi
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
-- 🏢 Remote \*_Blockchain Developer_ @ [Techsteck Solutions](https://techsteck.com/)
+- 🏢 Remote \*_Blockchain Developer_ 
 
 - ⛰️ **Avalanche Community** | Working on a project for avalanche Hypersdk framework and VM.
 
 - ⛓️ **Graduated from AU(ALCHEMY UNIVERSITY) AS ETHEREUM DEVELOPER**
 
-- 🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/kunal-gola-459030203/)
+- 🧗‍♀️ Helping folks learn about WEB3
 
 - ❤️ I love what i do.
 
